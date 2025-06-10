@@ -73,7 +73,7 @@ This project demonstrates a modern and production-ready deployment workflow usin
    ```bash
    wget https://github.com/BorgOwen/altschool-exam/archive/refs/heads/main.zip
 
-6.  **Unzip file and find location**
+6. **Unzip file and find location**
    ```bash
    unzip main.zip
    ls
