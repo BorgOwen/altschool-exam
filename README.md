@@ -49,9 +49,9 @@ This project demonstrates a modern and production-ready deployment workflow usin
 
 ## 📸 Screenshot of Deployed page
 
-![domain](assets/01.png)
+![domain](assets/img/01.PNG)
 
-![Public IP](assets/02.png)
+![Public IP](assets/img/02.PNG)
 
 ---
 
@@ -99,8 +99,8 @@ This project demonstrates a modern and production-ready deployment workflow usin
    ```bash
    sudo apt install certbot python3-certbot-nginx -y
 
-10.  **Run Certnot with nginx to enable SSL**
+10. **Run Certnot with nginx to enable SSL**
    ```bash
     # Follow the prompts to add SSL to your specified domain
-   sudo certbot --nginx
+    sudo certbot --nginx
 
