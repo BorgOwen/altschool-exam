@@ -96,6 +96,7 @@ This project demonstrates a modern and production-ready deployment workflow usin
     # Follow the prompts to add SSL to your specified domain
    sudo certbot --nginx
 
+---
 
 ## 📸 Screenshot of Deployed page
 
