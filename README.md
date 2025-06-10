@@ -1,6 +1,5 @@
 # altschool-exam 2025
 
-
 This is my repository for a cloud-hosted project showcasing a secure, personalized landing page powered by Nginx and hosted on AWS EC2.
 
 ## 🌐 Live Demo
@@ -95,10 +94,11 @@ This project demonstrates a modern and production-ready deployment workflow usin
 10.  **Run Certnot with nginx to enable SSL**
    ```bash
     # Follow the prompts to add SSL to your specified domain
-   sudo certbot --nginx 
+   sudo certbot --nginx
 
----
 
 ## 📸 Screenshot of Deployed page
+
 ![domain](assets/01.png)
+
 ![Public IP](assets/02.png)
