@@ -47,6 +47,14 @@ This project demonstrates a modern and production-ready deployment workflow usin
 
 ---
 
+## 📸 Screenshot of Deployed page
+
+![domain](assets/01.png)
+
+![Public IP](assets/02.png)
+
+---
+
 ## 🧰 Deployment Instructions
 
 1. **Provision EC2 Instance**
@@ -96,10 +104,3 @@ This project demonstrates a modern and production-ready deployment workflow usin
     # Follow the prompts to add SSL to your specified domain
    sudo certbot --nginx
 
----
-
-## 📸 Screenshot of Deployed page
-
-![domain](assets/01.png)
-
-![Public IP](assets/02.png)
