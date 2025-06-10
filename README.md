@@ -99,8 +99,9 @@ This project demonstrates a modern and production-ready deployment workflow usin
    ```bash
    sudo apt install certbot python3-certbot-nginx -y
 
-10. **Run Certnot with nginx to enable SSL**
-   ```bash
+
+10. **Run Certbot with nginx to enable SSL**
+    ```bash
     # Follow the prompts to add SSL to your specified domain
     sudo certbot --nginx
 
