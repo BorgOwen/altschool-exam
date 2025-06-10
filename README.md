@@ -78,7 +78,7 @@ This project demonstrates a modern and production-ready deployment workflow usin
    unzip main.zip
    ls
 
-7. **Copy contents of altschool-exam-main to /var/www/html**
+7. **Copy contents of file to /var/www/html**
    ```bash
    sudo cp altschool-exam-main/* /var/www/html
    sudo systemctl reload nginx
