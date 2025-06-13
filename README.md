@@ -6,7 +6,7 @@ This is my repository for a cloud-hosted project showcasing a secure, personaliz
 
 > [http://toluwabori.chickenkiller.com](http://toluwabori.chickenkiller.com)  
 > or  
-> [https://3.89.217.243](https://3.89.217.243)
+> [https://3.83.154.101](https://3.83.154.101)
 
 ## 📦 Project Overview
 
@@ -43,7 +43,6 @@ This project demonstrates a modern and production-ready deployment workflow usin
 
 - ✅ Port 80 (HTTP) and Port 443 (HTTPS) enabled
 - ✅ SSL secured with Let’s Encrypt
-- ✅ Reverse proxy optional configuration for Node.js apps
 
 ---
 
@@ -52,6 +51,10 @@ This project demonstrates a modern and production-ready deployment workflow usin
 ![domain](assets/img/01.PNG)
 
 ![Public IP](assets/img/02.PNG)
+
+![Project](assets/img/03.PNG)
+
+![Biography Section](assets/img/bio.PNG)
 
 ---
 
